@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Invento2K17.iml" filepath="$PROJECT_DIR$/Invento2K17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Invento-repo.iml" filepath="$PROJECT_DIR$/Invento-repo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
